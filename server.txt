@@ -2,7 +2,6 @@
 var GoodWinston = require('good-winston');
 var winston = require('winston');
 var Hapi = require('hapi');
-var server = new Hapi.Server();
 
 // add winston logging
 server.register({
@@ -25,6 +24,7 @@ register: require('good'),
 });
 
 
+var server = new Hapi.Server();
 if( process.env.PORT ) {
   server.connection({ port: process.env.PORT });
 }
