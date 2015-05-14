@@ -1,13 +1,13 @@
-# CloudTutorial [![Build Status](https://secure.travis-ci.org/rmarteleto/CloudTutorial.png?branch=master)](http://travis-ci.org/rmarteleto/CloudTutorial)
+# CloudTutorial2 [![Build Status](https://secure.travis-ci.org/bowerman0/CloudTutorial2.png?branch=master)](http://travis-ci.org/bowerman0/CloudTutorial2)
 
 The best project ever.
 
 ## Getting Started
-Install the module with: `npm install CloudTutorial`
+Install the module with: `npm install CloudTutorial2`
 
 ```javascript
-var CloudTutorial = require('CloudTutorial');
-CloudTutorial.awesome(); // "awesome"
+var CloudTutorial2 = require('CloudTutorial2');
+CloudTutorial2.awesome(); // "awesome"
 ```
 
 ## Documentation
@@ -23,5 +23,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 _(Nothing yet)_
 
 ## License
-Copyright (c) 2015 Marteleto, Renato  
-Licensed under the MIT license.
+Copyright (c) 2015 Michael Bowerman  
+Licensed under the GPL license.

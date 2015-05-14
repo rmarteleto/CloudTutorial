@@ -20,9 +20,6 @@ module.exports = function(grunt) {
       test: {
         src: ['test/**/*.js']
       },
-	  root: {
-        src: ['*.js']
-      },
     },
     watch: {
       gruntfile: {

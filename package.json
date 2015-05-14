@@ -1,23 +1,24 @@
 {
-  "name": "CloudTutorial",
+  "name": "CloudTutorial2",
   "description": "The best project ever.",
   "version": "0.1.0",
-  "homepage": "https://github.com/rmarteleto/CloudTutorial",
+  "homepage": "https://github.com/bowerman0/CloudTutorial2",
   "author": {
-    "name": "Marteleto, Renato",
-    "email": "Renato.Marteleto@elekta.com"
+    "name": "Michael Bowerman",
+    "email": "michael.bowerman@gmail.com",
+    "url": "https://www.linkedin.com/profile/view?id=26394371&trk=hp-identity-name"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rmarteleto/CloudTutorial.git"
+    "url": "https://github.com/bowerman0/CloudTutorial2.git"
   },
   "bugs": {
-    "url": "https://github.com/rmarteleto/CloudTutorial/issues"
+    "url": "https://github.com/bowerman0/CloudTutorial2/issues"
   },
   "licenses": [
     {
-      "type": "MIT",
-      "url": "https://github.com/rmarteleto/CloudTutorial/blob/master/LICENSE-MIT"
+      "type": "GPL",
+      "url": "https://github.com/bowerman0/CloudTutorial2/blob/master/LICENSE-GPL"
     }
   ],
   "main": "server.js",
