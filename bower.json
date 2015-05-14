@@ -1,0 +1,22 @@
+{
+  "name": "CloudTutorial",
+  "version": "0.0.0",
+  "homepage": "https://github.com/rmarteleto/CloudTutorial",
+  "authors": [
+    "Marteleto",
+    "Renato <Renato.Marteleto@elekta.com>"
+  ],
+  "description": "RM CloudTutorial",
+  "main": "server.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
