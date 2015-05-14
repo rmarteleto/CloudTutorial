@@ -20,13 +20,13 @@ server.route({
   }
 });
 
-server.route({
-  method: 'GET',
-  path: '/{name}',
-  handler: function (request, reply) {
-    reply('Hello, ' + encodeURIComponent(request.params.name) + '!');
-  }
-});
+// server.route({
+  // method: 'GET',
+  // path: '/{name}',
+  // handler: function (request, reply) {
+    // reply('Hello, ' + encodeURIComponent(request.params.name) + '!');
+  // }
+// });
 
 server.route({
   method : "GET",
@@ -34,6 +34,17 @@ server.route({
   handler : {
     directory : {
       path : 'bower_components',
+  listing : true
+    }
+  }
+});
+
+server.route({
+  method : "GET",
+  path : '/{param*}',
+  handler : {
+    directory : {
+      path : 'public',
   listing : true
     }
   }
