@@ -21,6 +21,7 @@
   ],
   "dependencies": {
     "jquery": "~2.1.4",
-    "bootstrap": "~3.3.4"
+    "bootstrap": "~3.3.4",
+    "startbootstrap-business-casual": "https://github.com/IronSummitMedia/startbootstrap-business-casual.git#~1.0.3"
   }
 }
