@@ -28,6 +28,17 @@ server.route({
   }
 });
 
+server.route({
+  method : "GET",
+  path : '/assets/{param*}',
+  handler : {
+    directory : {
+      path : 'bower_components',
+  listing : true
+    }
+  }
+});
+
 server.start(function () {
   console.log('Server running at:', server.info.uri);
 });
