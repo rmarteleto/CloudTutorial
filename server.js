@@ -11,7 +11,7 @@ else {
   server.connection({ port: 1337 });
 }
 
-
+/*
 server.route({
   method: 'GET',
   path: '/',
@@ -20,13 +20,14 @@ server.route({
   }
 });
 
-// server.route({
-  // method: 'GET',
-  // path: '/{name}',
-  // handler: function (request, reply) {
-    // reply('Hello, ' + encodeURIComponent(request.params.name) + '!');
-  // }
-// });
+server.route({
+  method: 'GET',
+  path: '/{name}',
+  handler: function (request, reply) {
+    reply('Hello, ' + encodeURIComponent(request.params.name) + '!');
+  }
+});
+*/
 
 server.route({
   method : "GET",
