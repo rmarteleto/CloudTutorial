@@ -1,4 +1,4 @@
-# CloudTutorial2 [![Build Status](https://secure.travis-ci.org/bowerman0/CloudTutorial2.png?branch=master)](http://travis-ci.org/bowerman0/CloudTutorial2)
+# CloudTutorial2 [![Build Status](https://secure.travis-ci.org/rmarteleto/CloudTutorial.png?branch=master)](http://travis-ci.org/rmarteleto/CloudTutorial)
 
 The best project ever.
 
