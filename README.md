@@ -3,11 +3,11 @@
 The best project ever.
 
 ## Getting Started
-Install the module with: `npm install CloudTutorial2`
+Install the module with: `npm install CloudTutorial`
 
 ```javascript
-var CloudTutorial2 = require('CloudTutorial2');
-CloudTutorial2.awesome(); // "awesome"
+var CloudTutorial2 = require('CloudTutorial');
+CloudTutorial.awesome(); // "awesome"
 ```
 
 ## Documentation

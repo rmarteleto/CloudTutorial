@@ -1,8 +1,8 @@
 {
-  "name": "CloudTutorial2",
+  "name": "CloudTutorial",
   "description": "The best project ever.",
   "version": "0.1.0",
-  "homepage": "https://github.com/bowerman0/CloudTutorial2",
+  "homepage": "https://github.com/rmarteleto/CloudTutorial",
   "author": {
     "name": "Michael Bowerman",
     "email": "michael.bowerman@gmail.com",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bowerman0/CloudTutorial2.git"
+    "url": "https://github.com/rmarteleto/CloudTutorial.git"
   },
   "bugs": {
-    "url": "https://github.com/bowerman0/CloudTutorial2/issues"
+    "url": "https://github.com/rmarteleto/CloudTutorial/issues"
   },
   "licenses": [
     {
       "type": "GPL",
-      "url": "https://github.com/bowerman0/CloudTutorial2/blob/master/LICENSE-GPL"
+      "url": "https://github.com/rmarteleto/CloudTutorial/blob/master/LICENSE-GPL"
     }
   ],
   "main": "server.js",
